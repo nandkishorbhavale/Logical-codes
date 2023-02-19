@@ -9,7 +9,7 @@ abstract class Multiply {
         System.out.println("This is how abstract method implemented and run!");
     }
 }
-
+//Extends the abstract method, implemented by child class
 public class AbstractMethod extends Multiply {
     public int multyTwo(int num1, int num2) {
         int multiplication = num1 * num2;
