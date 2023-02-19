@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Abstract Class
 abstract class Multiply {
     public abstract int multyTwo(int num1, int num2);
 
