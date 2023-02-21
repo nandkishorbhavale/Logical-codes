@@ -16,7 +16,7 @@ public class FindinigElementsInMatrix {
                 matrix[i][j] = sc.nextInt();
             }
         }
-
+        //User input
         System.out.println("Enter the matrix element you want to find it's index: ");
         int find = sc.nextInt();
         for (int i = 0; i < rows; i++) {
