@@ -1,3 +1,4 @@
+//java program of How we can find Elements in given matrix
 import java.util.Scanner;
 
 public class FindinigElementsInMatrix {
