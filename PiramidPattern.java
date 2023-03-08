@@ -1,3 +1,4 @@
+//Java program to print the paramid
 public class PiramidPattern {
     public static void main(String[] args) {
 
