@@ -15,7 +15,7 @@ class student {
         this.marks = marks;
     }
 }
-//Driver code
+//Driven code
 public class infoOfStudent {
     public static void main(String[] args) {
         student std1 = new student("Nandkishor Jadhav", 23, 87.90f);
