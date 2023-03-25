@@ -1,5 +1,5 @@
 
-//write java program to find factorial of given number?
+//write java program to find factorial of given number
 import java.util.*;
 
 public class factorial {
