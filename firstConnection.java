@@ -1,3 +1,4 @@
+//JDBC Connection
 import java.sql.*;
 
 public class firstConnection {
